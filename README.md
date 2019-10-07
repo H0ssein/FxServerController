@@ -2,7 +2,8 @@
 
 ## How to setup
 https://youtu.be/kc34EwKI7sg
-
+note:
+make sure you delete the FxControl folder from %localappdata% if you are updating from an older version.
 
 ## Requirement :
 Updated : 10.07.2019 // please read readme for AnnonForFxController
